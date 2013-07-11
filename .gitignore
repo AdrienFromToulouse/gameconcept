@@ -1,0 +1,4 @@
+.sass-cache
+public/images/ui-**.png
+public/javascripts/**.js
+node_modules
